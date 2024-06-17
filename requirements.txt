@@ -1,0 +1,9 @@
+sparqlwrapper
+transformers
+peft
+datasets
+openai
+rdflib
+tqdm
+pandas
+tokenizers
